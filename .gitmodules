@@ -1,4 +1,4 @@
 [submodule "fcf"]
 	path = fcf
-	url = https://github.com/adampetcher/fcf.git
+	url = https://github.com/fajb/fcf.git
     ignore = untracked
